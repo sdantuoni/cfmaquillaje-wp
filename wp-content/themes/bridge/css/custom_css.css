@@ -1,0 +1,68 @@
+
+
+footer .column1 {
+position: relative;
+top: -18px;
+}
+
+.cover_boxes ul li .box .box_content { top: 0; }
+.cover_boxes ul li .box .qbutton { margin-top: 18px; }
+
+
+#nav-menu-item-14860 li,
+#nav-menu-item-14862 li,
+#nav-menu-item-14864 li,
+#nav-menu-item-14866 li,
+#nav-menu-item-15083 li,
+#nav-menu-item-15085 li,
+#nav-menu-item-15087 li{
+width: 280px;
+}
+
+.drop_down .second .inner .widget {
+padding-bottom: 13px;
+}
+
+.drop_down .second .inner .widget a{
+padding: 0px !important;
+}
+
+.carousel-inner .slider_content .text .qbutton.white {
+    background-color: transparent;
+    border-width: 1px;
+    height: 65px;
+    line-height: 65px;
+    padding: 0 75px;
+    font-size: 21px;
+}
+
+.carousel-inner .slider_content .text .qbutton.white:hover {
+    background-color: #fff600;
+    color: #000 !important;
+    border-color: #fff600 !important;
+}
+
+.contact_detail h4 {
+display: none;
+}
+
+.projects_holder.hover_text article .hover_feature_holder_title .portfolio_title a:hover {
+    color: #fff !important;
+}
+
+.page-template-contact-page-php .content .container .container_inner {
+    padding-top: 69px !important;
+}
+
+.contact_section h2 {
+margin-bottom: 24px;
+}
+
+.blog_small_image h2,
+.blog_small_image h2 a { font-size: 28px; }
+
+.social_share_dropdown ul li:hover i {
+color: #fff !important;
+}
+
+.google_map { margin-bottom: 0; }
